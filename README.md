@@ -30,12 +30,12 @@ Por ser um código menor, ambas as alternativas foram utilizadas em uma única p
 Nessa parte não tem segredo, foi criado a classe ProdutoGrid como solicitado e as duas propriedades publicas do tipo string.  
 
 ### 2.2
-
+Dentro do método ListarProdutosExemplo, foi criada uma variável do tipo List<ProdutoGrid>, na qual representava pelo menos 5 produtos fictícios e em seguida, essa lista é retornada pelo método. Como os dois parâmetros inteiros recebidos pelo método não tinham uma finalidade específica definida, optei por incluí-los como parte da descrição de cada produto, apenas para ilustrar seu uso.
 
 ## Parte 3 – Questões de Compreensão de Conceitos de Programação
 
 ### 3.1 
-O valor impresso no console será 10, porque quando y recebeu o valor de x, ele copiou o valor inical de x (que era 10). Depois mesmo que x tenha sido alterado para 5, isso não afetou y, já que y guarda uma cópia independente do valor. 
+O valor impresso no console será 10, porque quando y recebeu o valor de x, ele copiou o valor inical de x (que era 10). Depois mesmo que x tenha sido alterado para 5, isso não afetou y, já que y guarda uma cópia independente do valor. Para ter melhor visibilidade chamei esse metodo na main e imprimi as informações de cada produto.
 
 ### 3.2
 Uma classe pública serve para permitir que uma classe possa ser acessado em qualquer lugar do código, mesmo em outras classes, projetos ou até bibliotecas, por outro lado uma classe privada só pode ser usada dentro da própria classe onde foi definida.

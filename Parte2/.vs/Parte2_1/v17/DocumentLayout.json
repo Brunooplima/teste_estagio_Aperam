@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Bruno\\OneDrive\\PC 2020\\\u00C1rea de Trabalho\\Teste_Estagio_Aperam\\Parte2_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D3F5688-AE5D-4463-8857-DF20B5A1D6FB}|Parte2_1.csproj|c:\\users\\bruno\\onedrive\\pc 2020\\\u00E1rea de trabalho\\teste_estagio_aperam\\parte2_1\\produtogrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D3F5688-AE5D-4463-8857-DF20B5A1D6FB}|Parte2_1.csproj|solutionrelative:produtogrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bruno\\OneDrive\\PC 2020\\\u00C1rea de Trabalho\\Teste_Estagio_Aperam\\Parte2_1\\ProdutoGrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProdutoGrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "ProdutoGrid.cs",
               "ToolTip": "C:\\Users\\Bruno\\OneDrive\\PC 2020\\\u00C1rea de Trabalho\\Teste_Estagio_Aperam\\Parte2_1\\ProdutoGrid.cs",
               "RelativeToolTip": "ProdutoGrid.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowB0AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T00:31:25.125Z",
               "EditorCaption": ""

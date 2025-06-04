@@ -2,22 +2,35 @@
 
 ## Parte 1 - Criação de um Controlador com Base em Arquitetura MVC
 
+Para executar o código é necessário um compilador compatível com o o C#, neste teste eu utilizei o Visual Studio, para executar o código foi necessário executar o software e na tela principal, terá uma aba escrito "Arquivos" (ou Files), selecione ela e logo em seguida selecione Abrir Pasta.
+
 ### 1.1 
-asdasdas
+Para executar esse problema selecione a pasta chamada Parte 1.1, e após isso clique no botão Iniciar, após isso deverá aparecer uma tela informando a impressão do resultado.
+
+Para estruturar melhor a solução, comecei criando as classes e métodos mencionados no enunciado, garantindo que cada elemento essencial estivesse presente. Em seguida, utilizei herança para que ProdutoController herdasse de BaseController, mantendo a organização e a reutilização de código. Como o objetivo era apenas simular a ação, implementei ProdutoService e Index com mensagens simples para facilitar a instância e exibição na Main. O maior desafio foi o método Inicializar, pois, inicialmente, houve dúvidas sobre como formatar a resposta JSON corretamente. Para resolver isso, defini diretamente um modelo de visualização (ProdutoViewModel) com valores fictícios e utilizei JsonSerializer.Serialize() para retornar a resposta esperada.
+
 
 ### 1.2
-asdasd
+Para manter a organização, optei por criar uma nova pasta chamada Parte 1.2, reutilizando as classes do problema anterior. Dessa forma, a estrutura fica mais clara e facilita a execução. Para rodar este problema, basta seguir os mesmos passos utilizados anteriormente.
+
+Como o problema havia solicitado inserir uma lista de ações em uma interface, inicialmente havia uma interface para inserir o AcoesProduto, mas já que o foco era apenas sobrescrever a propriedade AcoesProduto dentro da herança, decidi remové-la, criando a propriedade AcoesProduto dentro da classe BaseController e retornando a lista de ações na classe ProdutoController.
 
 ### 1.3
-asdasd
+Para manter a organização, optei por criar uma nova pasta chamada Parte 1.3, reutilizando as classes dos problemas anteriores. Dessa forma, a estrutura fica mais clara e facilita a execução. Para rodar este problema, basta seguir os mesmos passos utilizados anteriormente.
+
+Nessa problema foi literalmente fazer a mesma coisa do problema anterior com a diferença que em vez de retornar os valores que estão dentro da lista, retorno as especificações de objetos informados na questão.
+
 
 ## Parte 2 – Manipulação de Listas com Objetos Personalizados
 
+Para executar o código é necessário um compilador compatível com o o C#, neste teste eu utilizei o Visual Studio, para executar o código foi necessário executar o software e na tela principal, terá uma aba escrito "Arquivos" (ou Files), selecione ela e logo em seguida selecione "Abrir Pasta", selecione a pasta Parte2. 
+
+Por ser um código menor, ambas as alternativas foram utilizadas em uma única pasta.
 ### 2.1 
-asasdds
+Nessa parte não tem segredo, foi criado a classe ProdutoGrid como solicitado e as duas propriedades publicas do tipo string.  
 
 ### 2.2
-asdasdasd
+
 
 ## Parte 3 – Questões de Compreensão de Conceitos de Programação
 
